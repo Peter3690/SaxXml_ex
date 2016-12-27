@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<department>
+
+    <employee>
+        <empNo>E01</empNo>
+        <empName>KING</empName>
+        <hireDate>17-11-1981</hireDate>
+        <salary>100000</salary>
+    </employee>
+
+    <employee>
+        <empNo>E02</empNo>
+        <empName>JONES</empName>
+        <hireDate>02-04-1981</hireDate>
+        <salary>200000</salary>
+    </employee>
+
+</department>
